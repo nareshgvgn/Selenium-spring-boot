@@ -1,0 +1,25 @@
+
+{
+    "selenimAutomationApp": {
+        "propertyDtlBean" : {
+            "home": {
+                "title": "Property Dtl Beans",
+                "createLabel": "Create a new Property Dtl Bean",
+                "createOrEditLabel": "Create or edit a Property Dtl Bean"
+            },
+            "created": "A new Property Dtl Bean is created with identifier {{ param }}",
+            "updated": "A Property Dtl Bean is updated with identifier {{ param }}",
+            "deleted": "A Property Dtl Bean is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Property Dtl Bean {{ id }}?"
+            },
+            "detail": {
+                "title": "Property Dtl Bean"
+            },
+            "name": "Name",
+            "value": "Value",
+            "parentKey": "Parent Key",
+            "property": "Property"
+        }
+    }
+}

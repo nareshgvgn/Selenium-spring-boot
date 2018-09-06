@@ -1,0 +1,23 @@
+
+{
+    "selenimAutomationApp": {
+        "propertyMstBean" : {
+            "home": {
+                "title": "Property Mst Beans",
+                "createLabel": "Create a new Property Mst Bean",
+                "createOrEditLabel": "Create or edit a Property Mst Bean"
+            },
+            "created": "A new Property Mst Bean is created with identifier {{ param }}",
+            "updated": "A Property Mst Bean is updated with identifier {{ param }}",
+            "deleted": "A Property Mst Bean is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Property Mst Bean {{ id }}?"
+            },
+            "detail": {
+                "title": "Property Mst Bean"
+            },
+            "name": "Name",
+            "modifiedBy": "Modified By"
+        }
+    }
+}
